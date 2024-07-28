@@ -1,7 +1,7 @@
 # Stock Management System
 
 ## Overview
-The Stock Management System is a JavaFX application designed to help users manage their stock efficiently. It provides a graphical user interface to perform various stock management operations such as viewing products, adding products, deducting products, and discontinuing products.
+The Stock Management System is a JavaFX application designed to help users manage their stock efficiently. It provides a graphical user interface to perform various stock management operations such as viewing, adding, deducting, and discontinuing products.
 
 ## Features
 - **View Products**: Display the list of all available products.
@@ -20,7 +20,7 @@ The Stock Management System is a JavaFX application designed to help users manag
 ## Usage
 1. Run the 'StockManagement.java' to start the application.
 2. Use the graphical user interface to manage your stock:
-   - View Products: Click on the 'View products' button to see a list of all producst.
+   - View Products: Click on the 'View products' button to see a list of all products.
    - Add Products: Click on the 'Add products' button, enter the product details, and save.
    - Deduct Products: Select a product and click on the 'Deduct Product' button to reduce its quantity.
    - Discontinue Products: Select a product and click on the 'Discontinue Product' button to mark it as discontinued.
