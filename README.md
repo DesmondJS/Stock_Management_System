@@ -15,7 +15,7 @@ The Stock Management System is a JavaFX application designed to help users manag
 3. Clone this repository to your local machine using:
    ```sh
    git clone https://github.com/yourusername/stock_management_system.git
-4. Open the project in your prefered Integrated Development Environment (IDE).
+4. Open the project in your preferred Integrated Development Environment (IDE).
 
 ## Usage
 1. Run the 'StockManagement.java' to start the application.
